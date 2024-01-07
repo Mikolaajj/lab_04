@@ -45,4 +45,4 @@ jobs:
 
       - name: Run unittests
         run: |
-          python -m unittest discover -v -s tests/  # Zakładając, że testy znajdują się w folderze tests/
+          python -m unittest discover -v -s tests/ 
